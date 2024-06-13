@@ -1,16 +1,16 @@
-## New V2 Theme Preview
-> 💡 New V2 Theme is Coming to Experimental Theme Features
+## New Modern Theme Preview
+> 💡 New Modern Theme Replace V2 theme for Modern Theme
 
-[![Amiral Ariska V2 Theme Preview](https://xp.io/storage/24Rpr929.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-v2-themes/amiral-ariska-v2-themes.jpg)
-Try out the new amiral ariska v2 theme for a nice look.
+[![Amiral Ariska Modern Theme Preview](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-modern-themes/amiral-ariska-modern-themes.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-modern-themes/amiral-ariska-modern-themes.jpg)
+Try out the new amiral ariska modern theme for a nice look.
 ## Amiral Ariska Theme Demo
-[![Amiral Ariska Theme Demo](https://xp.io/storage/13ghS6gs.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)
-## Amiral Ariska Theme V2 Demo
-[![Amiral Ariska V2 Theme Demo](https://xp.io/storage/1I7P9J0j.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-v2/amiral-ariska-theme-v2-demo.gif)
+[![Amiral Ariska Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)
+## Amiral Ariska Theme Modern Demo
+[![Amiral Ariska Modern Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-modern/amiral-ariska-theme-modern-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-modern/amiral-ariska-theme-modern-demo.gif)
 ## Amiral Ariska Theme Blue Demo
-[![Amiral Ariska Theme Blue Demo](https://xp.io/storage/1m79BjfX.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif)
+[![Amiral Ariska Theme Blue Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif)
 ## Amiral Ariska Theme Cyan Demo
-[![Amiral Ariska Cyan Theme Demo](https://xp.io/storage/13fyTcBh.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-demo.gif)
+[![Amiral Ariska Cyan Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-cyan-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-cyan-demo.gif)
 # Amiral Ariska Theme For VSCODE
 ## Font
 ### Font 1
@@ -48,14 +48,14 @@ this font is free for programming
 ## Settings
 ### How to Disable Bracket Pair Colorization in settings
 1. To Open VSCODE Settings JSON File Press `Ctrl+Alt+,` To Open VSCODE Settings JSON File
-[![VSCODE Settings Tutorial 1 - Bracket Pair Colorization](https://xp.io/storage/EzOJI4y.gif)](https://xp.io/storage/EzOJI4y.gif)
+[![VSCODE Settings Tutorial 1 - Bracket Pair Colorization](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-bracket-pair-colorization-settings-tutorial/vscode-bracket-pair-colorization-settings-tutorial-1.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-bracket-pair-colorization-settings-tutorial/vscode-bracket-pair-colorization-settings-tutorial-1.gif)
 2. To Disable Bracket Pair Colorization in VSCODE Settings JSON Copy this settings down below and save the file
-[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://xp.io/storage/EzUsvYT.gif)](https://xp.io/storage/EzUsvYT.gif)
 ```jsonc
 {
     "editor.bracketPairColorization.enabled": false,
 }
 ```
+[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-bracket-pair-colorization-settings-tutorial/vscode-bracket-pair-colorization-settings-tutorial-2.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-bracket-pair-colorization-settings-tutorial/vscode-bracket-pair-colorization-settings-tutorial-2.gif)
 3. and now Bracket Pair Colorization is disabled
 > Note: If you want to follow vscode settings just follow this tutorial ☝
 

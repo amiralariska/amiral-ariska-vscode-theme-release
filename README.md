@@ -14,12 +14,12 @@ Try out the new amiral ariska modern theme for a nice look.
 # Amiral Ariska Theme For VSCODE
 ## Font
 ### Font 1
-this font name is "Droid Sans Mono"
+this font is called "Droid Sans Mono"
 [![Droid Sans Mono - VSCODE Font Family](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/droid-sans-mono-font.jpg)](https://www.1001fonts.com/droid-sans-mono-font.html)
 click here👇<br>
 [Download Font Here](https://www.1001fonts.com/download/droid-sans-mono.zip)
 ### Font 2
-and this font name is "Fira Mono"
+and this font is called "Fira Mono"
 [![Fira Mono - VSCODE Font Family](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/fira-mono-font.jpg)](https://fonts.google.com/specimen/Fira+Mono?query=Fira+Mono)
 click here👇<br>
 [Download Font Here](https://fonts.google.com/download?family=Fira%20Mono)<br>
